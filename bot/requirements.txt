@@ -1,0 +1,4 @@
+aiogram==3.13.1
+aiosqlite==0.20.0
+mcrcon==0.7.0
+python-dotenv==1.0.1
